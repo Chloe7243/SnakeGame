@@ -65,3 +65,4 @@
 /Users/stephanie/Documents/Codes/Learning-C#/SnakeGame/obj/Debug/net8.0/SnakeGame.csproj.Up2Date
 /Users/stephanie/Documents/Codes/Learning-C#/SnakeGame/obj/Debug/net8.0/SnakeGame.genruntimeconfig.cache
 /Users/stephanie/Documents/Codes/Learning-C#/SnakeGame/obj/Debug/net8.0/ref/SnakeGame.dll
+/Users/stephanie/Documents/Codes/Learning-C#/SnakeGame/obj/Debug/net8.0/SnakeGame.sourcelink.json

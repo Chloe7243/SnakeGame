@@ -1,10 +1,20 @@
 <Application xmlns="https://github.com/avaloniaui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             x:Class="SnakeGame.App"
-             RequestedThemeVariant="Default">
-             <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="SnakeGame.App"
+    RequestedThemeVariant="Default">
+    <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available
+    options. -->
 
     <Application.Styles>
         <FluentTheme />
     </Application.Styles>
+    <Application.Resources>
+        <SolidColorBrush x:Key="BackgroundColor">#211e2b</SolidColorBrush>
+        <SolidColorBrush x:Key="GridBackgroundColor">#312c40</SolidColorBrush>
+        <SolidColorBrush x:Key="GridLineColor">#4f4867</SolidColorBrush>
+        <SolidColorBrush x:Key="TextColor">#ebebeb</SolidColorBrush>
+        <SolidColorBrush x:Key="Overlay">#7f000000</SolidColorBrush>
+        <FontFamily x:Key="MainFont">/Assets/fonts/DroidSansMono.ttf</FontFamily>
+    </Application.Resources>
+
 </Application>
