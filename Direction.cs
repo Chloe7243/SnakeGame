@@ -18,7 +18,6 @@ public class Direction
     }
 
 
-
     public Direction Opposite()
     {
         return new Direction(-RowOffset, -ColOffset);
